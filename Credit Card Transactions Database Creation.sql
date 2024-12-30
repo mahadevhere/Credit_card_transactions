@@ -3,7 +3,7 @@ create table if not exists Card_base
 (
 	Card_Number		varchar(50),
 	Card_Family		varchar(30),
-	Credit_Limit	int,
+	Credit_Limit		int,
 	Cust_ID			varchar(20)
 );
 
@@ -16,8 +16,8 @@ create table if not exists Customer_base
 (
 	Cust_ID						varchar(20),
 	Age 						int,
-	Customer_Segment			varchar(30),
-	Customer_Vintage_Group  	varchar(20)
+	Customer_Segment				varchar(30),
+	Customer_Vintage_Group  			varchar(20)
 );
 
 
