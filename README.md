@@ -1,6 +1,6 @@
 # Credit Card Transactions - Data Analysis Project
 
-<img src="https://files.oaiusercontent.com/file-HrfuVjNfUANyuDoTuWuijG?se=2024-12-30T08%3A18%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da60f9688-abbf-4f97-a0e2-78ea966ea645.webp&sig=m%2BCv3N3jgUR/JoyDq8WYKgHAibSI45EMZjzcUOVMSxk%3D" alt="Credit Card Analysis" style="height: 300px;"/>
+<img src="https://files.oaiusercontent.com/file-HrfuVjNfUANyuDoTuWuijG?se=2024-12-30T08%3A18%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da60f9688-abbf-4f97-a0e2-78ea966ea645.webp&sig=m%2BCv3N3jgUR/JoyDq8WYKgHAibSI45EMZjzcUOVMSxk%3D" alt="Credit Card Analysis" style="width: 900px; height: 400px;"/>
 
 
 This project explores a dataset related to credit card transactions, with a focus on identifying customer behavior, fraudulent transactions, and insights into credit card usage patterns. The project involves creating a database, analyzing the data using SQL queries, and answering business-relevant questions.
